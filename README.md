@@ -1,2 +1,2 @@
 Password for all archives :
-virus
+*virus*
